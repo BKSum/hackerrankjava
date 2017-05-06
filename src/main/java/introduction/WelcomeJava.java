@@ -13,8 +13,9 @@ public class WelcomeJava {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.println("testing");
+        /* Enter your code here. Print output to STDOUT. Your class should be named Solution. */
+        System.out.println("Hello, World.");
+        System.out.println("Hello, Java.");
 	}
 
 }
