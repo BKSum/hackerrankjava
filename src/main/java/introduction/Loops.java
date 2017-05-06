@@ -24,6 +24,7 @@ public class Loops {
         for(int i=1; i<=10;i++){
         	System.out.println(new StringBuilder().append(N).append(" x ").append(i).append(" = ").append(N*i));
         }  
+        in.close();
     }
 
 }
